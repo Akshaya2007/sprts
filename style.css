@@ -37,15 +37,11 @@ h2 {
     color: #333;
 }
 
-#live-scores, #news, #upcoming-events {
+#live-scores, #upcoming-events, #past-results {
     background-color: white;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
-}
-
-#live-scores {
-    background-color: #e0e0e0;
 }
 
 footer {
